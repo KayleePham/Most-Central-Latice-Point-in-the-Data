@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Project2 {
+public class MostCentralLaticePoint {
     private static Scanner scan;
 
     public static void main(String[] args) throws FileNotFoundException {
