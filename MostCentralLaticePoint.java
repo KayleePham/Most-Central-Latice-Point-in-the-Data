@@ -14,7 +14,7 @@ public class Project2 {
 
     public static void main(String[] args) throws FileNotFoundException {
         // Open the file
-        File input2 = new File("C:\\Users\\kayle\\Documents\\Java\\input2.text");
+        File input2 = new File("input2.text");
 
         // Create a new scanner to read the file
         scan = new Scanner(input2);
